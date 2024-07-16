@@ -28,7 +28,8 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
 <img src="images/banner2.png" width="600">
 
 - **Azure Cosmos DB Partner Tech Connect 2023 Deep Dive** virtual event | 15 July 2023 <br>
-[Migration performance optimization & Java SDK Learnings at a Large Retail customer](https://www.youtube.com/watch?v=zMl_IboOn3s&t=2471s)  
+[Migration performance optimization & Java SDK Learnings at a Large Retail customer](https://www.youtube.com/watch?v=zMl_IboOn3s&t=2471s)
+<img src="images/CosmosDBPartnerTechConnect.png" width="500">
 
 - **Coffee with Azure Cosmos DB** hosted by [Sajeetharan Sinnathurai](https://www.linkedin.com/in/sajeetharan/)
     - **Episode 10**: [Tips and Tricks on Query patterns with Azure Cosmos DB](https://www.youtube.com/watch?v=_ZmV7twEMFA)
