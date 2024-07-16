@@ -1,5 +1,6 @@
 # My Tech Sessions & Blogs
 A collection of my Online Tech Sessions, Webinars and Blog posts.
+Contact me either on LinkedIn OR at: sugh AT microsoft DOT com for Online/Offsite/Event Speaking Engagements!
 
 ## Community Technical Sessions, Online Webinars & Tech Blog Posts:
 
