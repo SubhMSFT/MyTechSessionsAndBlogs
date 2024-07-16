@@ -11,7 +11,7 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
 ## 2022:
 - **UPES-Cloud Security Alliance Student Chapter**, Online Coding session for students | Feb 2022:
 [Building .NET Application Using Azure Cosmos DB](https://www.youtube.com/watch?v=MWeBGMpJfwY)
-<img src="images/UPES-CSA_StuChapter2022.jpg" width="800">
+<img src="images/UPES-CSA_StuChapter2022.jpg" width="700">
 
 - **Azure Cosmos DB Developer Conference** | AzConf 2022 | April 19-20 2022:
 [Migrating Graph from MariaDB & MongoDB to Azure Cosmos DB’s Gremlin API](https://www.youtube.com/watch?v=ltoRiyHSCwo)
