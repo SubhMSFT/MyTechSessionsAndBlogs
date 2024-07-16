@@ -2,6 +2,11 @@
 A collection of my Online Tech Sessions, Webinars and Blog posts.
 Contact me either on LinkedIn OR at: sugh AT microsoft DOT com for Online/Offsite/Event Speaking Engagements!
 
+## Subhasish Ghosh
+Senior Technical Program Manager - Azure OpenAI Service,
+Customer eXperience Engineering (CxE)
+Microsoft
+
 ## Community Technical Sessions, Online Webinars & Tech Blog Posts:
 
 ## 2020:
