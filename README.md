@@ -7,6 +7,7 @@ Contact me either on LinkedIn OR at: sugh AT microsoft DOT com for Online/Offsit
 ## 2020:
 - **Women in Technology (WiT) Ignite Exclusive Talk with Subhashish Ghosh, Microsoft** | WiT Ignite, a virtual career fair for women in STEM presented by Optum & co-hosted by ThiinkEqual <br>
 Online Session for Working Professionals | 29 October 2020 <br>
+Nominated by WorldWide Learning Team, Microsoft as Speaker for the Event <br>
 <img src="images/LinkedIn-Caption.jpg" width="400">
 
 ## 2021:
