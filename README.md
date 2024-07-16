@@ -10,7 +10,7 @@ Online Session for Working Professionals | 29 October 2020 <br>
 
 ## 2021:
 - **BS Narayan Center, Bhusanayana Mukundadas Sreenivasaiah (BMS) College of Engineering**, in collaboration with Placement Club, Dept. of Computer Applications, BMSCE | Online Session for students | 14 July 2021 <br>
-[Kickstart your Career in the Cloud](https://www.youtube.com/watch?v=rjk6DOpatdQ)
+[Kickstart your Career in the Cloud: Watch Recording](https://www.youtube.com/watch?v=rjk6DOpatdQ)
 <img src="images/BMS-CollegeofEngg1.jpeg" width="800">
 
 - **Azure Community Conference, AzConf 2021**, in collaboration with Microsoft | Online Session | 29-31 October 2021 <br>
