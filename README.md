@@ -23,7 +23,8 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
 - **Azure Cosmos DB Developer Blog** | Dec 1 2022 | [Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-diagnostics/)
 
 ## 2023:
-- **Azure Cosmos DB Live TV** hosted by [Mark Brown](https://www.linkedin.com/in/markjbrown1/) | 9 Feb 2023| **Episode 70**: [Diagnosing Azure Cosmos DB in Production using Azure Cosmos DB Java SDK V4](https://www.youtube.com/watch?v=gaoVMjiFqwE)
+- **Azure Cosmos DB Live TV** hosted by [Mark Brown](https://www.linkedin.com/in/markjbrown1/) | 9 Feb 2023 <br>
+**Episode 70**: [Diagnosing Azure Cosmos DB in Production using Azure Cosmos DB Java SDK V4](https://www.youtube.com/watch?v=gaoVMjiFqwE)
 <img src="images/banner2.png" width="600">
 
 - **Azure Cosmos DB Partner Tech Connect 2023 Deep Dive** virtual event: [Migration performance optimization & Java SDK Learnings at a Large Retail customer](https://www.youtube.com/watch?v=zMl_IboOn3s&t=2471s)  
