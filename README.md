@@ -6,7 +6,7 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
 ## 2020:
 - **Women in Technology (WiT) Ignite Exclusive Talk with Subhashish Ghosh, Microsoft** | WiT Ignite, a virtual career fair for women in STEM presented by Optum & co-hosted by ThiinkEqual <br>
 Online Session for Working Professionals | 29 October 2020 <br>
-<img src="images/LinkedIn-Caption.jpg" width="500">
+<img src="images/LinkedIn-Caption.jpg" width="400">
 
 ## 2021:
 - **BS Narayan Center, Bhusanayana Mukundadas Sreenivasaiah (BMS) College of Engineering**, in collaboration with Placement Club, Dept. of Computer Applications, BMSCE | Online Session for students | 14 July 2021 <br>
