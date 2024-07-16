@@ -6,7 +6,7 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
 ## 2021: 
 - **BS Narayan Center, Bhusanayana Mukundadas Sreenivasaiah (BMS) College of Engineering**, in collaboration with Placement Club, Dept. of Computer Applications, BMSCE | Online Session for students | July 2021:
 [Kickstart your Career in the Cloud](https://www.youtube.com/watch?v=rjk6DOpatdQ)
-<img src="images/BMS-CollegeofEngg1.jpeg" width="400">
+<img src="images/BMS-CollegeofEngg1.jpeg" width="700">
 
 ## 2022:
 - **UPES-Cloud Security Alliance Student Chapter**, Online Coding session for students | Feb 2022:
