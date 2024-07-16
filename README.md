@@ -10,7 +10,7 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
 
 - **Azure Community Conference, AzConf 2021**, in collaboration with Microsoft | Online Session | 29-31 October 2021:
 [AzConf: Leveraging Azure PostgreSQL - Hyperscale (Citus) for 2x performance versus Amazon Redshift](https://www.youtube.com/watch?v=Y13t-VPiZyY)
-<img src="images/SubhasishGhosh.png" width="800">
+<img src="images/SubhasishGhosh.png" width="500">
 
 ## 2022:
 - **UPES-Cloud Security Alliance Student Chapter**, Online Coding session for students | Feb 2022:
