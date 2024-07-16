@@ -1,4 +1,4 @@
-# MyTechSessionsAndBlogs
+# My Tech Sessions & Blogs
 A collection of my Online Tech Sessions, Webinars and Blog posts.
 
 ## Community Technical Sessions, Online Webinars & Tech Blog Posts:
