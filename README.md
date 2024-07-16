@@ -8,13 +8,18 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
 [Kickstart your Career in the Cloud](https://www.youtube.com/watch?v=rjk6DOpatdQ)
 <img src="images/BMS-CollegeofEngg1.jpeg" width="800">
 
+- **Azure Community Conference, AzConf 2021**, in collaboration with Microsoft | Online Session | 29-31 October 2021:
+[AzConf: Leveraging Azure PostgreSQL - Hyperscale (Citus) for 2x performance versus Amazon Redshift](https://www.youtube.com/watch?v=Y13t-VPiZyY)
+<img src="images/SubhasishGhosh.png" width="800">
+
 ## 2022:
 - **UPES-Cloud Security Alliance Student Chapter**, Online Coding session for students | Feb 2022:
 [Building .NET Application Using Azure Cosmos DB](https://www.youtube.com/watch?v=MWeBGMpJfwY)
-<img src="images/UPES-CSA_StuChapter2022.jpg" width="700">
+<img src="images/UPES-CSA_StuChapter2022.jpg" width="600">
 
 - **Azure Cosmos DB Developer Conference** | AzConf 2022 | April 19-20 2022:
 [Migrating Graph from MariaDB & MongoDB to Azure Cosmos DB’s Gremlin API](https://www.youtube.com/watch?v=ltoRiyHSCwo)
+
 
 - **Azure Cosmos DB Developer Blog** | Dec 1 2022 | [Diagnosing & Troubleshooting 4 Common Client-side Issues in Azure Cosmos DB for NoSQL with Java SDK V4](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-diagnostics/)
 
