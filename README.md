@@ -59,7 +59,7 @@ Online Session for Working Professionals | 29 October 2020 <br>
 - **IEEE GTBIT (Guru Tegh Bahadur Institute of Technology) SB** | 20 July 2024 | Generative AI Webinar | Google Meet <br>
   - Watch Webinar here > COMING <br>
   - GitHub repo: COMING
-<img src="images/GEN-AI_EVENT_Poster-20July2024.png" width="600">
+<img src="images/GEN-AI_EVENT_Poster-20July2024.png" width="500">
 
 - **Build With Gen AI webinar series at Dear Azure - Azure INDIA community** | TBD August 2024 | Generative AI Webinar | The Small Models Revolution <br>
   - Watch Webinar here > COMING <br>
