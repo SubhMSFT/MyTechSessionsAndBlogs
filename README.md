@@ -31,12 +31,14 @@ A collection of my Online Tech Sessions, Webinars and Blog posts.
  
 - **Azure Cosmos DB Developer Blog** | Feb 22 2024 | [MongoDB to Azure Cosmos DB for NoSQL Migration – Learnings from Java SDK V4 Micro-Optimizations](https://devblogs.microsoft.com/cosmosdb/mongodb-to-azure-cosmos-db-for-nosql-migration-learnings-from-java-sdk-v4-micro-optimizations/)
 
-- **Microsoft Azure & Microsoft Azure Developer Community, Dehradun** | Generative AI Webinar | GenAI: From One Token To An AI Revolution <br>
+- **Microsoft Azure & Microsoft Azure Developer Community, Dehradun** | 13 July 2024 | Generative AI Webinar | GenAI: From One Token To An AI Revolution <br>
   - Watch Webinar here > [Generative AI: From One Token To An AI Revolution | Online Webinar | Azure Developer Community (ADC)](https://www.youtube.com/watch?v=MDtaY-Lrrcw) <br>
   - GitHub repo: https://github.com/SubhMSFT/GenAI-13July2024WebinarRepo
  
-- **IEEE GTBIT (Guru Tegh Bahadur Institute of Technology) SB** | Generative AI Webinar | Google Meet <br>
+- **IEEE GTBIT (Guru Tegh Bahadur Institute of Technology) SB** | 20 July 2024 | Generative AI Webinar | Google Meet <br>
   - Watch Webinar here > <coming> <br>
   - GitHub repo: <coming>
 
-
+- **Build With Gen AI webinar series at Dear Azure - Azure INDIA community** | TBD August 2024 | Generative AI Webinar | The Small Models Revolution <br>
+  - Watch Webinar here > <coming> <br>
+  - GitHub repo: <coming>
