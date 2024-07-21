@@ -68,7 +68,6 @@ Nominated by WorldWide Learning Team, Microsoft as Speaker for the Event <br>
 
 - **Build With Gen AI webinar series at Dear Azure - Azure INDIA community** | TBD August 2024 | Generative AI Webinar | The Small Models Revolution <br>
   - Watch Webinar here > https://www.linkedin.com/events/thesmallmodelsrevolutionwithmic7220335539672010752/comments/ <br>
-<img scr="images/DearAzureSLMAugust2024.png" width=500">
-
+<img src="images/DearAzureSLMAugust2024.png" width="500">
  
 Contact me on: sugh AT microsoft DOT com for Online/Offsite/Event Speaking Engagements!
