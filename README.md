@@ -66,7 +66,7 @@ Nominated by WorldWide Learning Team, Microsoft as Speaker for the Event <br>
 - **IEEE GTBIT (Guru Tegh Bahadur Institute of Technology) SB** | 20 July 2024 | Generative AI Webinar | Google Meet <br>
 <img src="images/GEN-AI_EVENT_Poster-20July2024.png" width="500">
 
-- **Build With Gen AI webinar series at Dear Azure - Azure INDIA community** | 24 August 2024 | Generative AI Webinar | The Small Models Revolution with Microsoft Phi-3! <br>
+- **Build With Gen AI webinar series at Dear Azure - Azure INDIA community** | 24 August 2024 | Generative AI Webinar | The Small Models Revolution with Microsoft Phi-3 <br>
   - Watch Webinar here > https://www.linkedin.com/events/thesmallmodelsrevolutionwithmic7220335539672010752/comments/ <br>
 <img src="images/DearAzureSLMAugust2024.png" width="500">
  
